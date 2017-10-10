@@ -6,11 +6,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-# CRUD( Create Record, Update Record, and Delete Record Operation) and How To write API in 5.4 Laravel Project.
+## CRUD( Create Record, Update Record, and Delete Record Operation) and How To write API in 5.4 Laravel Project.
 
-Download project and run the following command.
+## Download project and run the following command.
 
 *composer dump-autoload -o
+
 *composer update --no-scripts
 
 ## 1. Add Record
