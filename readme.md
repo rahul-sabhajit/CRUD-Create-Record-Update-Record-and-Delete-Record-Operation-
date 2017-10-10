@@ -6,12 +6,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-## CRUD( Create Record, Update Record, and Delete Record Operation) and How To write API in 5.4 Laravel Project.
+# CRUD( Create Record, Update Record, and Delete Record Operation) and How To write API in 5.4 Laravel Project.
 
-# 1. Add Record
-# 2. Delete Record
-# 3. Update Record
-# 4. API
+## 1. Add Record
+## 2. Delete Record
+## 3. Update Record
+## 4. API
 
 ## Contributing
 
